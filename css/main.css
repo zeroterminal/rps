@@ -64,6 +64,7 @@ button:hover {
 
 #gameResultTitle, #gameResults {
     text-align: center;
+    font-size: 5em;
 }
 
 .player {
